@@ -27,4 +27,4 @@ I am creating small projects to practice DOM manipulation, API integration, proj
 ## Current goal
 I am looking for an opportunity to grow as a developer by building practical, user-friendly web applications.
 My next goal is to learn React and Node.js, gradually expanding my skills toward full-stack development.
-In the future, I am also interested in learning more about AI-related development and exploring new technologies that can help create intuituve and meaningful applications.
+In the future, I am also interested in learning more about AI-related development and exploring new technologies that can help create intuitive and meaningful applications.
